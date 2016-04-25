@@ -1,6 +1,6 @@
 # cleaning_ex
 
-Homework for Coursera Code
+## Data Processing 
 
 1. Data was dowloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 2. Using run.analysis.R we tranform the results according to instructions
@@ -22,4 +22,10 @@ Homework for Coursera Code
       i) We group by subject and activity
       ii) Estimate means by group
       iii) Create new data frame [tidy_ex]
+
+## Results
+
+## Files
+
+
 
