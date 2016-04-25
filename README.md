@@ -17,17 +17,25 @@
       v)  We eliminate duplicate variables from results   
 
 3. Creation of new file 
-      i) We select only variable with Mean and Std. Deviation. Only those that measure results X, Y and Z.
-      ii)  G. We create mergedEx data frame, see [codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
+      i)  We select only variable with Mean and Std. Deviation. Only those that measure results X, Y and Z.
+      ii) We create mergedEx data frame, see [codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
 
 4. We create other file with means by subject and activity
       i) We group by subject and activity
       ii) Estimate means by group
-      iii) Create new data frame [tidy_ex]
+      iii) Create new data frame [tidy_ex], see [codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
 
 ## Results
+      Codebook
+      Data
+      * Merged Data
+      * Means by subject and Activity
+      Scripts
+      * run_analysis.R
+      * [to create codebook]
+      
 
-## Files
 
+      
 
 
