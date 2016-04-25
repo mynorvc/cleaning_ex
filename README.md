@@ -26,13 +26,14 @@
       iii) Create new data frame [tidy_ex], see [codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
 
 ## Results
-      [Codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
-      Data
-      * Merged Data
-      * Means by subject and Activity
-      Scripts
-      * run_analysis.R
-      * [to create codebook]
+
+[Codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
+Data
+* [Merged Data](https://github.com/mynorvc/cleaning_ex/blob/master/mergedEx.txt)
+* [Means by subject and Activity](https://github.com/mynorvc/cleaning_ex/blob/master/tidy_ex.txt)
+Scripts
+* [run_analysis.R](https://github.com/mynorvc/cleaning_ex/blob/master/run_Analysis.R)
+* [to create codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.R)
       
 
 
