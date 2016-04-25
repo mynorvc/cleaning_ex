@@ -119,12 +119,12 @@
   49|      fBodyGyroStdX| St.Dev of X of Frequency of Body Gyro  Acceleration
   50|      fBodyGyroStdY| St.Dev of Y of Frequency of Body Gyro  Acceleration
   51|      fBodyGyroStdZ| St.Dev of Z of Frequency of Body Gyro  Acceleration
-                                                     source
-1  Anguita,  Ghio,  Oneto,  Parra and Reyes-Ortiz. (2012)
- source_media
+
+- source:
+-  Anguita,  Ghio,  Oneto,  Parra and Reyes-Ortiz. (2012)
+ -source_media
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
- notes
-1  tidy_ex Howework for Coursera
+ 
 
 
 
