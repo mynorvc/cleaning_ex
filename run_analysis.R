@@ -73,10 +73,11 @@ arrange(act_des,codact)
 arrange(exercise,codact)
 mergedEx=merge(act_des, exercise,by.x="codact", by.y="codact", all=TRUE)
 
+
 # 4. Appropriately labels the data set with descriptive variable names.
 
 ##-->already labeled in previous steps
-
+write.table(mergedEx,"mergedEx.txt",sep=",")
 
 # 5. From the data set in step 4, creates a second, independent tidy data set with 
 # the average of each variable for each activity and each subject.)
@@ -84,5 +85,6 @@ mergedEx=merge(act_des, exercise,by.x="codact", by.y="codact", all=TRUE)
 group_sub_act<-group_by(mergedEx,  subject, activity, add=TRUE)
 tidy_ex<-as.data.frame(summarise_each(group_sub_act,funs(mean)))
 
+write.table(tidy_ex,"tidy_ex.txt",sep=",")
 
 
