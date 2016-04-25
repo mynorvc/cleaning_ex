@@ -26,7 +26,7 @@
       iii) Create new data frame [tidy_ex], see [codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
 
 ## Results
-      Codebook
+      [Codebook](https://github.com/mynorvc/cleaning_ex/blob/master/codebook.md)
       Data
       * Merged Data
       * Means by subject and Activity
