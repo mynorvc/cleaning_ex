@@ -10,8 +10,8 @@
       ii) Unzip the files in Directory  
       
       iii) Merge the files   
-            A.We create test file, merging test_s (subject) test_y (activity) test_x (results)  
-            B.We create another train file, merging train_s (subject) train_y (activity) train_x (results)  
+            A. We create test file, merging test_s (subject) test_y (activity) test_x (results)  
+            B. We create another train file, merging train_s (subject) train_y (activity) train_x (results)  
             C. Merge train + test  
       iv) We apply the names that are in the file activity_labels  
       v)  We eliminate duplicate variables from results   
