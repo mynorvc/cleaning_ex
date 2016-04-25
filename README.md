@@ -3,7 +3,7 @@
 ## Data Processing 
 
 1. Data was dowloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
-2. Using run.analysis.R we tranform the results according to instructions
+2. Using [run.analysis.R](https://github.com/mynorvc/cleaning_ex/blob/master/run_analysis.R) we tranform the results according to instructions
 
       i) Download data from from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
       ii) Unzip the files in Directory
